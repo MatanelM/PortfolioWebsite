@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="neomorphism.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="items.js"></script>
+    <base href="http://matanel-masturov-9781.s3-website.eu-north-1.amazonaws.com/">
+    <link rel="icon" type="image/jpeg" sizes="60x60" href="assets/favicon.jpg">
+    <meta name="author" content="Matanel Masturov">
+    <title>Matanel Masturov - </title>
+</head>
+<body>
+  
+  <!--  Categories menu  -->
+  <div class="options-container">
+    <div class="glass"></div>
+      <div class="options">
+        <div class="checkbox__2">
+        <input type="checkbox" name="c" id="C"><label for="C" title="C" ></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="cpp" id="C++"><label for="C++" title="C++"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="java" id="Java"><label for="Java" title="Java"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="python" id="Python"><label for="Python" title="Python"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="csharp" id="C#"><label for="C#" title="C#"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="css" id="CSS"><label for="CSS" title="CSS"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="hardware" id="Hardware"><label for="Hardware" title="Hardware"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="android" id="Android"><label for="Android" title="Android"></label></div>
+        <div class="checkbox__2">
+        <input type="checkbox" name="mysql" id="MySQL"><label for="MySQL" title="MySQL"></label></div>      
+    </div>
+  </div>
+
+  <!-- Case data  -->
+  <div id="overlay">
+    <div id="white-screen">
+      <button id="back-button">&larr;</button>
+      <div class="content">
+        <img src="" alt="Logo">
+        <h2 id="name"></h2>
+        <p id="description"></p>
+        <p id="date"></p>
+        <div id="videoContainer">
+          <video id="video" width="520" height="320" autoplay controls muted>
+            <source id="videoSource" src="" type="video/mp4">
+              Your browser does not support the video tag.
+          </video>
+          <iframe id="yt_video" width="520" height="320" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <p id="link">
+          <a target="_blank" href=""></a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+    <!--- Projects icons -->
+  <div class="project container">
+    <div class="project java android" data-id="1">
+    </div>
+    <div class="project c hardware " data-id="2">
+    </div>
+    <div class="project java android" data-id="3">
+    </div>
+    <div class="project c cpp python" data-id="4">
+    </div>
+    <div class="project java android" data-id="5">
+    </div>
+    <div class="project c hardware" data-id="6">
+    </div>
+    <div class="project c" data-id="7">
+    </div>
+    <div class="project java android" data-id="8">
+    </div>
+    <div class="project ios" data-id="9">
+    </div>
+    <div class="project java mysql" data-id="10">
+    </div>
+    <div class="project java mysql" data-id="11">
+    </div>
+    <div class="project csharp unity" data-id="12">
+    </div>
+    <div class="project html css angular js" data-id="13">
+    </div>
+    <div class="project css" data-id="14">
+    </div>
+    <div class="project css js html" data-id="15">
+    </div>
+
+    <div class="project java python" data-id="16">
+    </div>
+    <div class="project css js html" data-id="17">
+    </div>
+    <div class="project contact" data-id="18">
+    </div>
+    </div>
+    <!-- Footer -->
+    <span class="copyrights">©2023 Matanel Masturov. All Rights Reserved.</span>
+</body>
+
+<!-- scripts -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="main.min.js"></script>
+</script>
+<script>
+  if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+      document.body.innerHTML = 'Sorry, this website is not accessible from mobile devices.'
+  } 
+</script>
+</html>
