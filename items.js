@@ -20,7 +20,7 @@ const items = [
     {
         "date": "2023",
         "name": "Android HW2",
-        "description": "A vibrating glove that translates music to vibrations and LED lights. It was made in a techno music hackathon and won 1st place.\n",
+        "description": "A simple game involving sensors for movement, levels difficulty, google map fragments and sounds management.\n",
         "link": "https://github.com/MatanelM/23A10357-HW1",
         "embeddedLink": "https://www.youtube.com/embed/WF3uICleATY",
         "logo": "spaceship.svg",
@@ -67,7 +67,7 @@ const items = [
         "name": "Android Accessability Module",
         "description": "Android library that offers accessible UI components with adjustable text sizes for enhanced readability in Android applications.",
         "link": "https://github.com/MatanelM/AndroidAccessabilityModule",
-        "embeddedLink": "https://user-images.githubusercontent.com/33670032/254681552-72039d42-c1e9-4b10-aed0-bf21ac7465b1.mp4",
+        "embeddedLink": null,
         "logo": "text-analytics.png",
         "linkText": "Link to repo"
     },
@@ -160,5 +160,14 @@ const items = [
         "embeddedLink": null,
         "logo": "gmail.png",
         "linkText": "Send a message"
+    },
+    {
+        "date": "",
+        "name": "Empty space!",
+        "description": "This space can be yours!\nIf you have a dream you want to achieve, I might just be your guy. Let me know your goals and we will talk further about it.\n",
+        "link": "mailto:Matanelm12321@gmail.com?subject=Hello&body=This%20is%20the%20body%20of%20the%20email.",
+        "embeddedLink": null,
+        "logo": "plus.png",
+        "linkText": "Contact now for free consultation"
     }
 ]
