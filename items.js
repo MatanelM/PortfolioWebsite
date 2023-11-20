@@ -144,15 +144,6 @@ const items = [
         "linkText": "Link to profile"
     },
     {
-        "date": "2020",
-        "name": "Physics calculator",
-        "description": "Two projects - The first calculates a vector resultant and shows the result on a graph, and the second is a kinematics calculator resolver. ",
-        "link": "https://physics-app-3c4c3.web.app/vectors",
-        "embeddedLink": null,
-        "logo": "accounting.png",
-        "linkText": "Link to website"
-    },
-    {
         "date": "",
         "name": "Contact",
         "description": "Send an email in the following link",
