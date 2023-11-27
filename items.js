@@ -12,7 +12,7 @@ const items = [
         "date": "2023",
         "name": "Glove for Accessibility",
         "description": "A vibrating glove that translates music to vibrations and LED lights. It was made in a techno music hackathon and won 1st place.\n",
-        "link": "https://github.com/YourUsername/GloveForAccessibility",
+        "link": "https://www.afeka.ac.il/afeka-news/articles/%D7%9E%D7%A0%D7%92%D7%A0%D7%99%D7%9D-%D7%94%D7%A0%D7%93%D7%A1%D7%94/",
         "embeddedLink": null,
         "logo": "glove.png",
         "linkText": "Link to article"
