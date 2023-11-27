@@ -31,8 +31,9 @@ html{
     margin: 40px 15%;
     display: grid;
     place-items: center;
-    position: relative;;
+    position: absolute;
     padding: 10px 40px;
+    bottom:0;
 
   }
 
@@ -41,7 +42,7 @@ html{
     left: 10vw;
     height: 56vh;
     position: relative;
-    top: 2vh;
+    top: 10vh;
     display: grid;
     grid-template-columns: repeat(7, 95px); /* Adjust the size as per your needs */
     grid-template-rows: repeat(6, 95px); /* Adjust the size as per your needs */
