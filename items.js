@@ -155,7 +155,7 @@ const items = [
     {
         "date": "",
         "name": "Empty space!",
-        "description": "This space can be yours!\nIf you have a dream you want to achieve, I might just be your guy. Let me know your goals and we will talk further about it.\n",
+        "description": "Transform Your Dreams into Reality! Are you looking for a dedicated software engineer who can bring your vision to life? You've come to the right place. Share your goals with me, and let's explore how we can collaborate to achieve your aspirations. Your project deserves personalized attention and skillful execution, and that's exactly what I offer. Let's start a conversation about your dream project today!\n",
         "link": "mailto:Matanelm12321@gmail.com?subject=Hello&body=This%20is%20the%20body%20of%20the%20email.",
         "embeddedLink": null,
         "logo": "plus.png",
