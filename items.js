@@ -1,5 +1,14 @@
 const items = [
     {
+        "date": "2024",
+        "name": "Kid Find",
+        "description": "Multiuser app for parents and kids to be synchronized on the kid's location. Java, Retrofit, Google maps.",
+        "link": "https://github.com/ShaharGoldberger/KidFindIntegrative",
+        "embeddedLink": "https://github.com/user-attachments/assets/b3faac68-09c2-4e23-a4f6-32f3c3e7cc37",
+        "logo": "ic_launcher_foreground.png",
+        "linkText": "Link to repo"
+    },
+    {
         "date": "2023",
         "name": "Android Sound Manager",
         "description": "Library for android written in Java that can be helpful for implementing sounds in the application.",
