@@ -1,6 +1,15 @@
 const items = [
     {
         "date": "2024",
+        "name": "OkElon",
+        "description": "Website application for matching between resume and job description using AI. Developed with Python/Flask, and static HTML, JavaScript, and CSS. Robust AI analysis using Google AI studio.",
+        "link": "https://matanelm.github.io/HRInsightsPro/",
+        "embeddedLink": "https://media.licdn.com/dms/image/v2/D4D2DAQHYmV4DB_z7Cg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1734012994028?e=1735135200&v=beta&t=y9GKt2-KveSIwbMFtFa4gevZe-MkE_8Z9yPAmwcrkwI",
+        "logo": "okelon_logo.png",
+        "linkText": "Link to repo"
+    },
+    {
+        "date": "2024",
         "name": "Kid Find",
         "description": "Multiuser app for parents and kids to be synchronized on the kid's location. Java, Retrofit, Google maps.",
         "link": "https://github.com/ShaharGoldberger/KidFindIntegrative",
